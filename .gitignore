@@ -1,0 +1,16 @@
+# Environment
+.env
+.venv/
+.python-version
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
