@@ -1,0 +1,16 @@
+[project]
+name = "06-dlt-homework"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dlt[duckdb]>=1.29.0",
+    "fastmcp>=3.4.4",
+    "logfire>=4.38.0",
+    "minsearch>=0.2.0",
+    "openai>=2.46.0",
+    "pydantic-ai>=2.14.1",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
